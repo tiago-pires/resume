@@ -1,0 +1,13 @@
+body {
+    font-family: arial;
+    color: #444;
+    max-width: 600px;
+    padding: 30px;
+    margin: 30px auto; 
+    line-height: 2;
+}
+
+h2 {
+    box-shadow: 0 2px 0 gold;
+    display: inline-block
+}
